@@ -1,1 +1,1 @@
-# lhdbuild2022-javascript-game
+# LHD Build 2022 Javascript Game
